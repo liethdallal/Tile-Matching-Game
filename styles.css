@@ -1,0 +1,43 @@
+body{
+    background-color: yellow;
+}
+h1 {
+   text-align: center;
+   font-family: 'Poiret One', cursive;
+}
+#myName {
+    font-family: 'Cookie', cursive;
+    font-size: 4vh;
+}
+#button-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#start-game {
+    font-size: 2vh;
+    height: 10vh;
+    background-color: black;
+    color: yellow;
+    border: none;
+}
+hr {
+    width: 22%;
+    height: 1vh;
+    background-color: black;
+    border:none;
+    
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 2vh;
+}
+#entire-page{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+}
