@@ -39,5 +39,15 @@ p{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    height: 100vh;
+    height: 90vh;
+}
+.pic {
+    display: flex;
+    justify-content: center;
+}
+
+.p1{
+    width: 15vh; 
+    height: auto; 
+    margin-right: 1vh; 
 }
