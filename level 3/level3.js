@@ -1,6 +1,6 @@
 const titlesContainer = document.querySelector('.tiles');
 
-const colors = ["Red", "Blue", "Green", "Orange", "Purple", "Pink", "Brown", "Cyan", 'Chartreuse', 'Magenta', 'White', 'Magenta'];
+const colors = ["Red", "Blue", "Green", "Orange", "Purple", "Pink", "Brown", "Cyan", 'Chartreuse', 'Silver', 'White', 'Magenta'];
 //This is an array that has a a single instance of each color
 
 const colorPicklist = [...colors, ...colors];
