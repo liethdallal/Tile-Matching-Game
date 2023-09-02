@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    background: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+.tiles {
+    margin: 40px auto;
+    width: max-content;
+    display: grid;
+    grid-template-columns: repeat(6, 100px);
+    gap: 16px;
+}
+
+.tile {
+    height: 100px;
+    background: black;
+    border: 5px;
+    cursor: pointer;
+}
