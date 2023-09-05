@@ -1,1 +1,6 @@
 # Tile-Matching-Game
+I created an engaging color matching game using a combination of HTML, CSS, and JavaScript, demonstrating my skills in web development. The game features three exciting levels, each challenging players to match colors with precision and speed. To build this game, I employed my knowledge of HTML and CSS to structure and style the interface, making it visually appealing and user-friendly.
+
+In JavaScript, I leveraged event handling and manipulation of DOM elements to bring the game to life. I carefully constructed the game logic, ensuring that tiles could be clicked, revealing their colors, and checking for matches. I implemented a cooldown mechanism to prevent rapid tile selections, creating an enjoyable and fair gaming experience. Additionally, I used randomization techniques to generate a diverse array of colors, adding an element of unpredictability and excitement to each level.
+
+This project allowed me to showcase my proficiency in front-end web development, including HTML/CSS for layout and styling, as well as JavaScript for interactivity and game logic. Overall, the color matching game exemplifies my ability to combine these skills to create engaging and enjoyable web-based experiences for users.
