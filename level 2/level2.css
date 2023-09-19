@@ -22,3 +22,16 @@ body {
     border: 5px;
     cursor: pointer;
 }
+@media (max-width: 480px){
+    html {
+     height: 100vh;
+     width: 100vh;
+    }
+  
+ }
+ @media (max-width: 768px) {
+     html {
+         height: 100vh;
+         width: 100vh;
+        }
+ }
