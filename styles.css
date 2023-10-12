@@ -51,16 +51,9 @@ p{
     height: auto; 
     margin-right: 1vh; 
 }
-@media (max-width: 480px){
-    html {
-     height: 100vh;
-     width: 100vh;
-    }
+@media (max-width: 800px){
+   h1 {
+    font-size: 20px;
+   }
   
- }
- @media (max-width: 768px) {
-     html {
-         height: 100vh;
-         width: 100vh;
-        }
  }
